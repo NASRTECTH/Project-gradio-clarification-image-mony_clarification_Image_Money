@@ -1,0 +1,2 @@
+# Project-gradio-clarification-image-mony_clarification_Image_Money
+This project will build a small demo web application of Named Entity Recognition (NER) using Gradio. Demonstrate a machine learning model with a friendly web interface so that we can see if our model is working the way we want it or not. The implementation of deep learning that will be carried out is to clarification  images of banknotes.
